@@ -1,0 +1,28 @@
+<% form_for(@person, :html => { :multipart => true }) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </p>
+  <p>
+    <%= f.label :description %><br />
+    <%= f.text_area :description %>
+  </p>
+  <p>
+    <%= f.label :image %><br />
+    <%= f.file_field :image %>
+  </p>
+  <% unless params[:action] == 'new' %>
+  <p>
+    Current Image:<br />
+    <%= image_tag @person.image(:thumb) %>
+  </p>
+  <% end %>
+  <p>
+    <%= f.submit submit_button_text %>
+  </p>
+<% end %>
+<div id="form-nav">
+  <%= link_to 'Back', people_path %>
+</div>

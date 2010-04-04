@@ -1,0 +1,613 @@
+--- 
+check_ins_000102: 
+  created_at: 2010-03-28 20:20:49.571
+  updated_at: 2010-03-28 20:20:49.571
+  id: "346"
+  person_id: "3"
+  location_id: "3"
+check_ins_000087: 
+  created_at: 2010-03-28 20:20:49.52896
+  updated_at: 2010-03-28 20:20:49.52896
+  id: "331"
+  person_id: "2"
+  location_id: "10"
+check_ins_000066: 
+  created_at: 2010-03-28 20:20:49.476302
+  updated_at: 2010-03-28 20:20:49.476302
+  id: "310"
+  person_id: "1"
+  location_id: "6"
+check_ins_000003: 
+  created_at: 2010-03-28 20:20:49.251665
+  updated_at: 2010-03-28 20:20:49.251665
+  id: "247"
+  person_id: "4"
+  location_id: "6"
+check_ins_000024: 
+  created_at: 2010-03-28 20:20:49.309604
+  updated_at: 2010-03-28 20:20:49.309604
+  id: "268"
+  person_id: "5"
+  location_id: "10"
+check_ins_000045: 
+  created_at: 2010-03-28 20:20:49.373216
+  updated_at: 2010-03-28 20:20:49.373216
+  id: "289"
+  person_id: "6"
+  location_id: "5"
+check_ins_000090: 
+  created_at: 2010-03-28 20:20:49.534857
+  updated_at: 2010-03-28 20:20:49.534857
+  id: "334"
+  person_id: "2"
+  location_id: "9"
+check_ins_000088: 
+  created_at: 2010-03-28 20:20:49.530895
+  updated_at: 2010-03-28 20:20:49.530895
+  id: "332"
+  person_id: "2"
+  location_id: "11"
+check_ins_000067: 
+  created_at: 2010-03-28 20:20:49.478572
+  updated_at: 2010-03-28 20:20:49.478572
+  id: "311"
+  person_id: "1"
+  location_id: "8"
+check_ins_000004: 
+  created_at: 2010-03-28 20:20:49.254879
+  updated_at: 2010-03-28 20:20:49.254879
+  id: "248"
+  person_id: "4"
+  location_id: "11"
+check_ins_000025: 
+  created_at: 2010-03-28 20:20:49.312901
+  updated_at: 2010-03-28 20:20:49.312901
+  id: "269"
+  person_id: "5"
+  location_id: "4"
+check_ins_000046: 
+  created_at: 2010-03-28 20:20:49.37591
+  updated_at: 2010-03-28 20:20:49.37591
+  id: "290"
+  person_id: "6"
+  location_id: "10"
+check_ins_000089: 
+  created_at: 2010-03-28 20:20:49.532809
+  updated_at: 2010-03-28 20:20:49.532809
+  id: "333"
+  person_id: "2"
+  location_id: "7"
+check_ins_000068: 
+  created_at: 2010-03-28 20:20:49.480732
+  updated_at: 2010-03-28 20:20:49.480732
+  id: "312"
+  person_id: "1"
+  location_id: "11"
+check_ins_000005: 
+  created_at: 2010-03-28 20:20:49.257648
+  updated_at: 2010-03-28 20:20:49.257648
+  id: "249"
+  person_id: "4"
+  location_id: "9"
+check_ins_000026: 
+  created_at: 2010-03-28 20:20:49.315643
+  updated_at: 2010-03-28 20:20:49.315643
+  id: "270"
+  person_id: "5"
+  location_id: "6"
+check_ins_000047: 
+  created_at: 2010-03-28 20:20:49.37821
+  updated_at: 2010-03-28 20:20:49.37821
+  id: "291"
+  person_id: "6"
+  location_id: "4"
+check_ins_000091: 
+  created_at: 2010-03-28 20:20:49.537003
+  updated_at: 2010-03-28 20:20:49.537003
+  id: "335"
+  person_id: "2"
+  location_id: "6"
+check_ins_000070: 
+  created_at: 2010-03-28 20:20:49.48578
+  updated_at: 2010-03-28 20:20:49.48578
+  id: "314"
+  person_id: "1"
+  location_id: "11"
+check_ins_000069: 
+  created_at: 2010-03-28 20:20:49.482837
+  updated_at: 2010-03-28 20:20:49.482837
+  id: "313"
+  person_id: "1"
+  location_id: "9"
+check_ins_000006: 
+  created_at: 2010-03-28 20:20:49.260498
+  updated_at: 2010-03-28 20:20:49.260498
+  id: "250"
+  person_id: "4"
+  location_id: "4"
+check_ins_000027: 
+  created_at: 2010-03-28 20:20:49.318502
+  updated_at: 2010-03-28 20:20:49.318502
+  id: "271"
+  person_id: "5"
+  location_id: "9"
+check_ins_000048: 
+  created_at: 2010-03-28 20:20:49.380099
+  updated_at: 2010-03-28 20:20:49.380099
+  id: "292"
+  person_id: "6"
+  location_id: "5"
+check_ins_000092: 
+  created_at: 2010-03-28 20:20:49.544339
+  updated_at: 2010-03-28 20:20:49.544339
+  id: "336"
+  person_id: "2"
+  location_id: "8"
+check_ins_000071: 
+  created_at: 2010-03-28 20:20:49.489046
+  updated_at: 2010-03-28 20:20:49.489046
+  id: "315"
+  person_id: "1"
+  location_id: "11"
+check_ins_000007: 
+  created_at: 2010-03-28 20:20:49.263261
+  updated_at: 2010-03-28 20:20:49.263261
+  id: "251"
+  person_id: "4"
+  location_id: "9"
+check_ins_000028: 
+  created_at: 2010-03-28 20:20:49.321315
+  updated_at: 2010-03-28 20:20:49.321315
+  id: "272"
+  person_id: "5"
+  location_id: "7"
+check_ins_000050: 
+  created_at: 2010-03-28 20:20:49.383852
+  updated_at: 2010-03-28 20:20:49.383852
+  id: "294"
+  person_id: "6"
+  location_id: "11"
+check_ins_000049: 
+  created_at: 2010-03-28 20:20:49.381993
+  updated_at: 2010-03-28 20:20:49.381993
+  id: "293"
+  person_id: "6"
+  location_id: "8"
+check_ins_000093: 
+  created_at: 2010-03-28 20:20:49.54788
+  updated_at: 2010-03-28 20:20:49.54788
+  id: "337"
+  person_id: "2"
+  location_id: "5"
+check_ins_000072: 
+  created_at: 2010-03-28 20:20:49.492163
+  updated_at: 2010-03-28 20:20:49.492163
+  id: "316"
+  person_id: "1"
+  location_id: "6"
+check_ins_000008: 
+  created_at: 2010-03-28 20:20:49.266065
+  updated_at: 2010-03-28 20:20:49.266065
+  id: "252"
+  person_id: "4"
+  location_id: "7"
+check_ins_000030: 
+  created_at: 2010-03-28 20:20:49.326841
+  updated_at: 2010-03-28 20:20:49.326841
+  id: "274"
+  person_id: "5"
+  location_id: "9"
+check_ins_000029: 
+  created_at: 2010-03-28 20:20:49.324008
+  updated_at: 2010-03-28 20:20:49.324008
+  id: "273"
+  person_id: "5"
+  location_id: "7"
+check_ins_000051: 
+  created_at: 2010-03-28 20:20:49.386686
+  updated_at: 2010-03-28 20:20:49.386686
+  id: "295"
+  person_id: "6"
+  location_id: "11"
+check_ins_000094: 
+  created_at: 2010-03-28 20:20:49.550281
+  updated_at: 2010-03-28 20:20:49.550281
+  id: "338"
+  person_id: "3"
+  location_id: "4"
+check_ins_000073: 
+  created_at: 2010-03-28 20:20:49.494881
+  updated_at: 2010-03-28 20:20:49.494881
+  id: "317"
+  person_id: "1"
+  location_id: "7"
+check_ins_000010: 
+  created_at: 2010-03-28 20:20:49.270641
+  updated_at: 2010-03-28 20:20:49.270641
+  id: "254"
+  person_id: "4"
+  location_id: "9"
+check_ins_000009: 
+  created_at: 2010-03-28 20:20:49.268564
+  updated_at: 2010-03-28 20:20:49.268564
+  id: "253"
+  person_id: "4"
+  location_id: "9"
+check_ins_000031: 
+  created_at: 2010-03-28 20:20:49.32979
+  updated_at: 2010-03-28 20:20:49.32979
+  id: "275"
+  person_id: "5"
+  location_id: "6"
+check_ins_000052: 
+  created_at: 2010-03-28 20:20:49.388642
+  updated_at: 2010-03-28 20:20:49.388642
+  id: "296"
+  person_id: "6"
+  location_id: "8"
+check_ins_000095: 
+  created_at: 2010-03-28 20:20:49.552688
+  updated_at: 2010-03-28 20:20:49.552688
+  id: "339"
+  person_id: "3"
+  location_id: "4"
+check_ins_000074: 
+  created_at: 2010-03-28 20:20:49.497561
+  updated_at: 2010-03-28 20:20:49.497561
+  id: "318"
+  person_id: "1"
+  location_id: "5"
+check_ins_000011: 
+  created_at: 2010-03-28 20:20:49.273094
+  updated_at: 2010-03-28 20:20:49.273094
+  id: "255"
+  person_id: "4"
+  location_id: "7"
+check_ins_000032: 
+  created_at: 2010-03-28 20:20:49.3326
+  updated_at: 2010-03-28 20:20:49.3326
+  id: "276"
+  person_id: "5"
+  location_id: "5"
+check_ins_000053: 
+  created_at: 2010-03-28 20:20:49.390532
+  updated_at: 2010-03-28 20:20:49.390532
+  id: "297"
+  person_id: "6"
+  location_id: "7"
+check_ins_000096: 
+  created_at: 2010-03-28 20:20:49.555392
+  updated_at: 2010-03-28 20:20:49.555392
+  id: "340"
+  person_id: "3"
+  location_id: "7"
+check_ins_000075: 
+  created_at: 2010-03-28 20:20:49.499842
+  updated_at: 2010-03-28 20:20:49.499842
+  id: "319"
+  person_id: "1"
+  location_id: "11"
+check_ins_000033: 
+  created_at: 2010-03-28 20:20:49.335221
+  updated_at: 2010-03-28 20:20:49.335221
+  id: "277"
+  person_id: "5"
+  location_id: "11"
+check_ins_000054: 
+  created_at: 2010-03-28 20:20:49.392383
+  updated_at: 2010-03-28 20:20:49.392383
+  id: "298"
+  person_id: "6"
+  location_id: "5"
+check_ins_000012: 
+  created_at: 2010-03-28 20:20:49.275927
+  updated_at: 2010-03-28 20:20:49.275927
+  id: "256"
+  person_id: "4"
+  location_id: "3"
+check_ins_000097: 
+  created_at: 2010-03-28 20:20:49.557916
+  updated_at: 2010-03-28 20:20:49.557916
+  id: "341"
+  person_id: "3"
+  location_id: "11"
+check_ins_000076: 
+  created_at: 2010-03-28 20:20:49.501948
+  updated_at: 2010-03-28 20:20:49.501948
+  id: "320"
+  person_id: "1"
+  location_id: "5"
+check_ins_000055: 
+  created_at: 2010-03-28 20:20:49.394247
+  updated_at: 2010-03-28 20:20:49.394247
+  id: "299"
+  person_id: "6"
+  location_id: "6"
+check_ins_000013: 
+  created_at: 2010-03-28 20:20:49.278754
+  updated_at: 2010-03-28 20:20:49.278754
+  id: "257"
+  person_id: "4"
+  location_id: "9"
+check_ins_000034: 
+  created_at: 2010-03-28 20:20:49.338616
+  updated_at: 2010-03-28 20:20:49.338616
+  id: "278"
+  person_id: "5"
+  location_id: "8"
+check_ins_000098: 
+  created_at: 2010-03-28 20:20:49.55998
+  updated_at: 2010-03-28 20:20:49.55998
+  id: "342"
+  person_id: "3"
+  location_id: "8"
+check_ins_000077: 
+  created_at: 2010-03-28 20:20:49.504319
+  updated_at: 2010-03-28 20:20:49.504319
+  id: "321"
+  person_id: "1"
+  location_id: "3"
+check_ins_000014: 
+  created_at: 2010-03-28 20:20:49.281645
+  updated_at: 2010-03-28 20:20:49.281645
+  id: "258"
+  person_id: "4"
+  location_id: "9"
+check_ins_000035: 
+  created_at: 2010-03-28 20:20:49.341778
+  updated_at: 2010-03-28 20:20:49.341778
+  id: "279"
+  person_id: "5"
+  location_id: "10"
+check_ins_000056: 
+  created_at: 2010-03-28 20:20:49.396625
+  updated_at: 2010-03-28 20:20:49.396625
+  id: "300"
+  person_id: "6"
+  location_id: "11"
+check_ins_000099: 
+  created_at: 2010-03-28 20:20:49.562524
+  updated_at: 2010-03-28 20:20:49.562524
+  id: "343"
+  person_id: "3"
+  location_id: "3"
+check_ins_000078: 
+  created_at: 2010-03-28 20:20:49.507456
+  updated_at: 2010-03-28 20:20:49.507456
+  id: "322"
+  person_id: "1"
+  location_id: "5"
+check_ins_000015: 
+  created_at: 2010-03-28 20:20:49.284468
+  updated_at: 2010-03-28 20:20:49.284468
+  id: "259"
+  person_id: "4"
+  location_id: "5"
+check_ins_000036: 
+  created_at: 2010-03-28 20:20:49.344608
+  updated_at: 2010-03-28 20:20:49.344608
+  id: "280"
+  person_id: "5"
+  location_id: "7"
+check_ins_000057: 
+  created_at: 2010-03-28 20:20:49.3991
+  updated_at: 2010-03-28 20:20:49.3991
+  id: "301"
+  person_id: "6"
+  location_id: "7"
+check_ins_000080: 
+  created_at: 2010-03-28 20:20:49.513428
+  updated_at: 2010-03-28 20:20:49.513428
+  id: "324"
+  person_id: "1"
+  location_id: "7"
+check_ins_000079: 
+  created_at: 2010-03-28 20:20:49.51073
+  updated_at: 2010-03-28 20:20:49.51073
+  id: "323"
+  person_id: "1"
+  location_id: "3"
+check_ins_000016: 
+  created_at: 2010-03-28 20:20:49.287463
+  updated_at: 2010-03-28 20:20:49.287463
+  id: "260"
+  person_id: "4"
+  location_id: "5"
+check_ins_000037: 
+  created_at: 2010-03-28 20:20:49.347566
+  updated_at: 2010-03-28 20:20:49.347566
+  id: "281"
+  person_id: "5"
+  location_id: "9"
+check_ins_000058: 
+  created_at: 2010-03-28 20:20:49.445234
+  updated_at: 2010-03-28 20:20:49.445234
+  id: "302"
+  person_id: "6"
+  location_id: "9"
+check_ins_000081: 
+  created_at: 2010-03-28 20:20:49.516112
+  updated_at: 2010-03-28 20:20:49.516112
+  id: "325"
+  person_id: "1"
+  location_id: "7"
+check_ins_000017: 
+  created_at: 2010-03-28 20:20:49.290301
+  updated_at: 2010-03-28 20:20:49.290301
+  id: "261"
+  person_id: "4"
+  location_id: "10"
+check_ins_000038: 
+  created_at: 2010-03-28 20:20:49.350439
+  updated_at: 2010-03-28 20:20:49.350439
+  id: "282"
+  person_id: "6"
+  location_id: "7"
+check_ins_000060: 
+  created_at: 2010-03-28 20:20:49.459446
+  updated_at: 2010-03-28 20:20:49.459446
+  id: "304"
+  person_id: "6"
+  location_id: "3"
+check_ins_000059: 
+  created_at: 2010-03-28 20:20:49.456785
+  updated_at: 2010-03-28 20:20:49.456785
+  id: "303"
+  person_id: "6"
+  location_id: "7"
+check_ins_000082: 
+  created_at: 2010-03-28 20:20:49.519146
+  updated_at: 2010-03-28 20:20:49.519146
+  id: "326"
+  person_id: "2"
+  location_id: "10"
+check_ins_000018: 
+  created_at: 2010-03-28 20:20:49.293206
+  updated_at: 2010-03-28 20:20:49.293206
+  id: "262"
+  person_id: "4"
+  location_id: "11"
+check_ins_000040: 
+  created_at: 2010-03-28 20:20:49.356847
+  updated_at: 2010-03-28 20:20:49.356847
+  id: "284"
+  person_id: "6"
+  location_id: "10"
+check_ins_000039: 
+  created_at: 2010-03-28 20:20:49.353031
+  updated_at: 2010-03-28 20:20:49.353031
+  id: "283"
+  person_id: "6"
+  location_id: "11"
+check_ins_000061: 
+  created_at: 2010-03-28 20:20:49.462152
+  updated_at: 2010-03-28 20:20:49.462152
+  id: "305"
+  person_id: "1"
+  location_id: "7"
+check_ins_000083: 
+  created_at: 2010-03-28 20:20:49.52123
+  updated_at: 2010-03-28 20:20:49.52123
+  id: "327"
+  person_id: "2"
+  location_id: "4"
+check_ins_000020: 
+  created_at: 2010-03-28 20:20:49.298735
+  updated_at: 2010-03-28 20:20:49.298735
+  id: "264"
+  person_id: "4"
+  location_id: "6"
+check_ins_000019: 
+  created_at: 2010-03-28 20:20:49.296036
+  updated_at: 2010-03-28 20:20:49.296036
+  id: "263"
+  person_id: "4"
+  location_id: "9"
+check_ins_000041: 
+  created_at: 2010-03-28 20:20:49.359593
+  updated_at: 2010-03-28 20:20:49.359593
+  id: "285"
+  person_id: "6"
+  location_id: "8"
+check_ins_000062: 
+  created_at: 2010-03-28 20:20:49.465034
+  updated_at: 2010-03-28 20:20:49.465034
+  id: "306"
+  person_id: "1"
+  location_id: "10"
+check_ins_000084: 
+  created_at: 2010-03-28 20:20:49.523194
+  updated_at: 2010-03-28 20:20:49.523194
+  id: "328"
+  person_id: "2"
+  location_id: "4"
+check_ins_000021: 
+  created_at: 2010-03-28 20:20:49.301389
+  updated_at: 2010-03-28 20:20:49.301389
+  id: "265"
+  person_id: "4"
+  location_id: "5"
+check_ins_000042: 
+  created_at: 2010-03-28 20:20:49.362486
+  updated_at: 2010-03-28 20:20:49.362486
+  id: "286"
+  person_id: "6"
+  location_id: "3"
+check_ins_000063: 
+  created_at: 2010-03-28 20:20:49.468078
+  updated_at: 2010-03-28 20:20:49.468078
+  id: "307"
+  person_id: "1"
+  location_id: "3"
+check_ins_000100: 
+  created_at: 2010-03-28 20:20:49.565364
+  updated_at: 2010-03-28 20:20:49.565364
+  id: "344"
+  person_id: "3"
+  location_id: "11"
+check_ins_000085: 
+  created_at: 2010-03-28 20:20:49.525117
+  updated_at: 2010-03-28 20:20:49.525117
+  id: "329"
+  person_id: "2"
+  location_id: "9"
+check_ins_000022: 
+  created_at: 2010-03-28 20:20:49.303986
+  updated_at: 2010-03-28 20:20:49.303986
+  id: "266"
+  person_id: "4"
+  location_id: "9"
+check_ins_000043: 
+  created_at: 2010-03-28 20:20:49.365217
+  updated_at: 2010-03-28 20:20:49.365217
+  id: "287"
+  person_id: "6"
+  location_id: "4"
+check_ins_000064: 
+  created_at: 2010-03-28 20:20:49.47073
+  updated_at: 2010-03-28 20:20:49.47073
+  id: "308"
+  person_id: "1"
+  location_id: "5"
+check_ins_000001: 
+  created_at: 2010-03-28 20:20:49.240662
+  updated_at: 2010-03-28 20:20:49.240662
+  id: "245"
+  person_id: "4"
+  location_id: "10"
+check_ins_000101: 
+  created_at: 2010-03-28 20:20:49.568159
+  updated_at: 2010-03-28 20:20:49.568159
+  id: "345"
+  person_id: "3"
+  location_id: "9"
+check_ins_000086: 
+  created_at: 2010-03-28 20:20:49.52705
+  updated_at: 2010-03-28 20:20:49.52705
+  id: "330"
+  person_id: "2"
+  location_id: "10"
+check_ins_000044: 
+  created_at: 2010-03-28 20:20:49.36796
+  updated_at: 2010-03-28 20:20:49.36796
+  id: "288"
+  person_id: "6"
+  location_id: "5"
+check_ins_000065: 
+  created_at: 2010-03-28 20:20:49.473674
+  updated_at: 2010-03-28 20:20:49.473674
+  id: "309"
+  person_id: "1"
+  location_id: "6"
+check_ins_000002: 
+  created_at: 2010-03-28 20:20:49.248412
+  updated_at: 2010-03-28 20:20:49.248412
+  id: "246"
+  person_id: "4"
+  location_id: "9"
+check_ins_000023: 
+  created_at: 2010-03-28 20:20:49.30674
+  updated_at: 2010-03-28 20:20:49.30674
+  id: "267"
+  person_id: "5"
+  location_id: "9"

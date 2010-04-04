@@ -1,0 +1,28 @@
+<div id="location-list">
+  <h2>Listing Locations</h2>
+  <div id="form-nav">
+    <%= link_to(image_tag('icons/add.png') + "Add a Locaiton", new_location_path) %>
+  </div>
+
+  <table class="admin-table">
+    <tr>
+      <th>Name</th>
+      <th>Address</th>
+      <th>Current Visitors</th>
+      <th>Total Visitors</th>
+    </tr>
+  <% @locations.each do |location| %>
+    <tr class="<%= cycle("even", "odd") %>-row">
+      <td><%= link_to( image_tag('icons/show.png', :alt => 'Show') + " #{location.name}", location) %></td>
+      <td><%=h location.address %></td>
+      <td class="center-text"><%=h location.current_visitors.size %></td>
+      <td class="center-text"><%=h location.people.size %></td>
+      <td>       
+        <%= link_to( image_tag('icons/edit.png', :alt => 'Edit'), edit_location_path(location)) %>
+        <%= link_to( image_tag('icons/delete.png', :alt => 'Destroy'), location,
+              :confirm => 'Are you sure?', :method => :delete) %>
+      </td>
+    </tr>
+  <% end %>
+  </table>
+</div>

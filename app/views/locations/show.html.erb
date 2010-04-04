@@ -1,0 +1,32 @@
+<div id="form-nav">
+  <%= link_to image_tag('icons/back.png') + 'List all Locations', locations_path %>
+</div>
+<div style="clear:both;"></div>
+<div id="location-details">
+  <h1><%=h @location.name %></h1>
+  <p>    
+    <address><%=h @location.address %></address>
+  </p>
+  <p><%=h @location.description %></p>
+</div>
+<div id="map" class="small-map"></div>
+<div id="activity">
+  <div id="recent-activity" class="activity-left">
+    <h3>Current Visitors</h3>
+    <hr />
+    <div id="member-activity-list">      
+      <%= render :partial => 'people/member_location',
+                 :collection => @location.current_visitors,
+                 :as => :person %>      
+    </div>
+  </div>
+  <div id="member-activity" class="activity-right">
+    <h3>Frequent Visitors</h3>
+    <hr />
+    <div id="location-activity-list">
+      <%= render :partial => 'people/member_location',
+                 :collection => @location.people_by_frequency,
+                 :as => :person %>
+    </div>
+  </div>
+</div>

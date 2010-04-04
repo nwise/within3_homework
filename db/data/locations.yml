@@ -1,0 +1,82 @@
+--- 
+locations_000008: 
+  address: 2927 Bridge Ave, Cleveland, OH  44113
+  name: Heck's Cafe
+  created_at: 2010-03-21 23:55:55
+  updated_at: 2010-03-28 18:49:21
+  lng: "-81.7082"
+  id: "8"
+  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  lat: "41.4841"
+locations_000009: 
+  address: 1985 W 28th St, Cleveland, OH  44113
+  name: Farkas Pastry Shop
+  created_at: 2010-03-21 23:56:35
+  updated_at: 2010-03-28 18:49:21
+  lng: "-81.7054"
+  id: "9"
+  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  lat: "41.4837"
+locations_000001: 
+  address: 1995 W 25th St, Cleveland, OH  44113
+  name: West Side Market Cafe
+  created_at: 2010-03-21 23:57:07
+  updated_at: 2010-03-28 18:49:21
+  lng: "-81.7034"
+  id: "10"
+  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  lat: "41.4843"
+locations_000002: 
+  address: 300, 2401 Superior Via, Cleveland, OH
+  name: Within3
+  created_at: 2010-03-22 00:29:01
+  updated_at: 2010-03-28 18:49:21
+  lng: "-81.7059"
+  id: "11"
+  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  lat: "41.4926"
+locations_000003: 
+  address: 1872 W 25th St, Cleveland, OH 44113
+  name: ABC Tavern
+  created_at: 2010-03-21 23:48:53
+  updated_at: 2010-03-28 18:49:21
+  lng: "-81.7049"
+  id: "3"
+  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  lat: "41.4856"
+locations_000004: 
+  address: 1867 W 25th St, Cleveland, OH  44113
+  name: Gate 49 Pizza
+  created_at: 2010-03-21 23:49:30
+  updated_at: 2010-03-28 18:49:21
+  lng: "-81.7043"
+  id: "4"
+  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  lat: "41.4859"
+locations_000005: 
+  address: 1975 W 25th St, Cleveland, OH  44113
+  name: Theresa's Bakery
+  created_at: 2010-03-21 23:51:45
+  updated_at: 2010-03-28 18:49:21
+  lng: "-81.7037"
+  id: "5"
+  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  lat: "41.4846"
+locations_000006: 
+  address: 2097 Columbus Rd, Cleveland, OH  44113
+  name: Fiesta Guadalajara
+  created_at: 2010-03-21 23:53:17
+  updated_at: 2010-03-28 18:49:21
+  lng: "-81.7"
+  id: "6"
+  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  lat: "41.4837"
+locations_000007: 
+  address: 1616 W 25th St, Cleveland, OH  44113
+  name: Nine Dragon
+  created_at: 2010-03-21 23:55:07
+  updated_at: 2010-03-28 18:49:21
+  lng: "-81.7066"
+  id: "7"
+  description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  lat: "41.4882"

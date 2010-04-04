@@ -1,0 +1,22 @@
+= where_is_within3
+
+    Within3 team members love to eat out for lunch or, work from a coffee shop in the afternoon. Additionally,
+    our offices are located right in the heart of an amazing coffee, beer, and food district. However, all these
+    great locations nearby makes it cumbersome to track everyone down. That being the case, Within3 has
+    decided to contract you to build a simple geo-location service for us to find out not just where everyone is
+    at, but where they are most likely to be.
+
+== installing
+
+    git clone git://github.com/nwise/within3-homework.git
+    cp config/database.yml-dist config/database.yml  #change user/pass as needed
+    rake db:create:all
+    rake db:migrate
+    rake load_data
+    #optional
+    rake randomize_checkins
+
+== required gems
+
+    geokit (1.5.0)
+    paperclip (2.3.1.1)

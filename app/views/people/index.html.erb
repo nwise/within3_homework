@@ -1,0 +1,28 @@
+<div id="people-list">
+  <h2>Listing People</h2>
+  <div id="form-nav">
+    <%= link_to(image_tag('icons/add.png') + 'New person',
+          new_person_path) %>
+  </div>
+ 
+  <table class="admin-table">
+    <tr>
+      <th>Name</th>
+      <th>Current Location</th>
+      <th># Check-ins</th>
+      <th></th>
+    </tr>
+  <% @people.each do |person| %>
+    <tr class="<%= cycle('odd', 'even') %>-row">
+      <td><%= link_to(image_tag('icons/show.png') + " #{person.name}",
+                person )%></td>
+      <td><%= person.current_location.name unless person.current_location.nil? %></td>
+      <td class="center-text"><%= person.locations.count %></td>
+      <td><%= link_to(image_tag('icons/edit.png', :alt => 'Edit'),
+                edit_person_path(person)) %>
+          <%= link_to(image_tag('icons/delete.png', :alt => 'Delete'),
+                person, :confirm => 'Are you sure?', :method => :delete) %></td>
+    </tr>
+  <% end %>
+  </table>
+</div>

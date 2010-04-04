@@ -1,0 +1,11 @@
+<div class="member" id="member_<%= member_location_counter + 1%>">
+  <div class="member-thumb">
+    <%= image_tag(person.image.url(:thumb)) %>
+  </div>
+  <div class="member-detail">
+    <%= link_to(person.name, person_url(person)) %>
+    <% unless person.current_location.nil? %>
+    <br />Currently @ <%= person.current_location.name %>
+    <% end %>
+  </div>
+</div>

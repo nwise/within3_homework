@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+  <title><%= controller.action_name %></title>
+  <%= stylesheet_link_tag 'scaffold' %>
+  <%= javascript_include_tag "jquery-1.4.2.min.js" %>  
+  <script type="text/javascript" src="/javascripts/quickpager.jquery.js"></script>
+  <script type="text/javascript">
+    $(function () {  $("#member-activity-list").quickPager({pagerLocation:"bottom", pageSize:"5"});  });
+    $(function () {  $("#location-activity-list").quickPager({pagerLocation:"bottom", pageSize:"5"});  });
+  </script>
+  <% if require_map? %>
+    <script type="text/javascript"
+          src="http://maps.google.com/maps?file=api&amp;v=2&amp;
+               key=<%= GeoKit::Geocoders::google %>">
+    </script>
+    <script type="text/javascript">
+      var places = <%= @locations_to_mark.to_json %>;
+    </script>
+    <%= javascript_include_tag 'application' %>
+  <% end %>
+</head>
+<body>
+  <div id="wrapper">
+    <div id="page">
+      <div id="header">
+        <div id="logo">
+          <%= link_to(image_tag('within3.gif', :alt => 'Home'), root_url) %>
+        </div>
+        <div id="tagline">
+          <h2>Where is Within3?</h2>
+        </div>
+      </div>
+      <p style="color: green"><%= flash[:notice] %></p>
+      <%= yield %>
+      <div style="clear:both;"></div>
+    </div>
+  </div>
+</body>
+</html>

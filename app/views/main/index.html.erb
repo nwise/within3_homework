@@ -1,0 +1,21 @@
+<div id="map" class="large-map"></div>
+
+<div id="member-activity" class="activity-left">
+  <h3>Most Active Members</h3>
+  <hr />
+  <div id="member-activity-list">
+    <%= render :partial => 'people/member_location',
+               :collection => @people,
+               :as => :person %>
+  </div>
+</div>
+
+<div id="location-activity" class="activity-right">
+  <h3>Most Active Locations</h3>
+  <hr />
+  <div id="location-activity-list">
+    <%= render :partial => 'shared/location',
+               :collection => @locations,
+               :as => :location %>
+  </div>
+</div>
